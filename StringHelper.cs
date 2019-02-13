@@ -8,7 +8,7 @@ namespace PadawansTask4
         {
             // put your code here
             //throw new NotImplementedException();
-            return 3;
+            return 5;
         }
     }
 }
